@@ -73,7 +73,7 @@ const Developer = {
 
 | Category | Technologies |
 | --- | --- |
-| **Frontend** | HTML5, CSS3, JavaScript |
+| **Frontend** | JavaScript |
 | **Backend** | Java, Spring Boot, Python |
 | **Database** | MySQL, PostgreSQL |
 | **DevOps/Cloud** | AWS, Git, GitHub Actions |
