@@ -9,8 +9,6 @@
 ### 🖥️ AI TERMINAL
 
 ```
-> Initializing objectives...
-[########################################] 100%
 
 ✔ Developer Loaded
 ✔ Backend Module Enabled (Java/Spring )
