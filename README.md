@@ -46,13 +46,13 @@ const Developer = {
 
 <div align="center">
 
-**Front-End**<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+**Front-End**[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
-**Back-End**<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+**Back-End**[![My Skills](https://skillicons.dev/icons?i=java,spring,py)](https://skillicons.dev)
 
-**Database**<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+**Database**[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
-**Tools & Cloud**<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /><img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><img src="https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
+**Tools**[![My Skills](https://skillicons.dev/icons?i=aws,git,vscode,android)](https://skillicons.dev)
 
 </div>
 
@@ -82,7 +82,7 @@ const Developer = {
 | **Backend** | Java, Spring Boot, Python |
 | **Database** | MySQL, PostgreSQL |
 | **DevOps/Cloud** | AWS, Git, GitHub Actions |
-| **Mobile** | Android (Java ) |
+| **Mobile** | Android (Java) |
 
 ---
 
@@ -101,17 +101,6 @@ Java / Spring Boot
 $ location
 Rio de Janeiro, RJ
 ```
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermematteus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermematteus&layout=compact&theme=tokyonight" />
-</div> <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilhermematteus&theme=tokyonight" />
-</div>
 
 ---
 
