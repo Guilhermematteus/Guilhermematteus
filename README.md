@@ -39,15 +39,6 @@ I am a **Systems Analysis and Development (ADS )** student at **Estácio de Sá*
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermematteus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermematteus&layout=compact&theme=tokyonight" />
-</div> <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilhermematteus&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ---
 
 ### 📫 Connect with me
