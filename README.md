@@ -9,6 +9,7 @@
 ### 🖥️ AI TERMINAL
 
 ```
+> Initializing objectives...
 
 ✔ Developer Loaded
 ✔ Backend Module Enabled (Java/Spring )
@@ -45,6 +46,8 @@ const Developer = {
 
 <div align="center">
 
+**Front-End**<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+
 **Back-End**<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
 **Database**<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -57,13 +60,15 @@ const Developer = {
 
 ### 🚀 Current Mission
 
-> Initializing objectives...
+> **Focusing on growth and technical excellence:**
 
-**Backend Development (Java/Spring )**![85%](https://progress-bar.dev/85/?scale=100&title=Progress&width=400&color=1a5fb4)
+- 🎯 **Backend Mastery**: Deep diving into Java and Spring Boot ecosystem.
 
-**Cloud Computing (AWS)**![40%](https://progress-bar.dev/40/?scale=100&title=Progress&width=400&color=1a5fb4)
+- ☁️ **Cloud Practitioner**: Preparing for AWS certifications.
 
-**Android Development**![60%](https://progress-bar.dev/60/?scale=100&title=Progress&width=400&color=1a5fb4)
+- 📱 **Mobile Development**: Building native Android applications.
+
+- 🏛️ **Architecture**: Studying patterns for scalable systems.
 
 **Status:** Never Stop Learning 🎓
 
@@ -77,7 +82,7 @@ const Developer = {
 | **Backend** | Java, Spring Boot, Python |
 | **Database** | MySQL, PostgreSQL |
 | **DevOps/Cloud** | AWS, Git, GitHub Actions |
-| **Mobile** | Android (Java) |
+| **Mobile** | Android (Java ) |
 
 ---
 
@@ -107,14 +112,6 @@ Rio de Janeiro, RJ
 </div> <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilhermematteus&theme=tokyonight" />
 </div>
-
----
-
-### 🐍 Contribution Graph
-
-<p align="center">
-<img src="https://github.com/Guilhermematteus/Guilhermematteus/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
