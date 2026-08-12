@@ -102,9 +102,3 @@ while(alive) {
   improve();
 }
 ```
-
----
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/api?type=waving&color=0:0D1117,40:8B5CF6,100:00E5FF&height=100&section=footer" />
-</p>
