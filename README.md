@@ -2,25 +2,26 @@
 
 ## 💻 S Y S T E M · O N L I N E
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=INITIALIZING+DEVELOPER+PROFILE;WELCOME+TO+MY+GITHUB;BUILDING+THE+FUTURE" /> <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,40:8B5CF6,100:00E5FF&text=SYSTEM+ONLINE&fontColor=ffffff&fontSize=70" /> </div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=INITIALIZING+DEVELOPER+PROFILE;WELCOME+TO+MY+GITHUB;BUILDING+THE+FUTURE+WITH+JAVA+AND+AWS" /> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,40:8B5CF6,100:00E5FF&text=GUILHERME+MATEUS&fontColor=ffffff&fontSize=80" /> </div>
 
 ---
 
 ## 💻 AI TERMINAL
 
 ```bash
-┌─────────────────────────────────────────────────────────┐
-│                    DEVELOPER CORE v3.0                  │
-└─────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────────────────┐
+│                                   DEVELOPER CORE v3.0                                   │
+└─────────────────────────────────────────────────────────────────────────────────────────┘
 
 Loading modules...
 
-[████████████████████████████████████████] 100%
+[████████████████████████████████████████████████████████████████████████████████] 100%
 
 ✔ Developer Loaded: Guilherme Mateus
 ✔ Backend Module Enabled (Java / Spring Boot )
 ✔ Cloud Protocols Active (AWS)
 ✔ Mobile Interface Ready (Android)
+✔ Current Study: Logic & Programming Best Practices (Alura)
 ✔ Status: ONLINE & READY TO CODE 🚀
 ```
 
@@ -35,12 +36,12 @@ const Developer = {
   location: "Rio de Janeiro, Brazil 🇧🇷",
   education: "ADS @ Estácio (2026-2028)",
   focus: ["Backend", "Java", "Spring Boot", "AWS", "Software Architecture"],
-  currentlyLearning: [
-    "Java Advanced & Collections",
-    "Spring Ecosystem",
-    "AWS Cloud Practitioner",
-    "Android Development"
-  ],
+  currentlyLearning: {
+    language: "JavaScript / Java",
+    logic: ["Loops & Iterations", "Infinite Loops Control", "Conditionals"],
+    bestPractices: ["Code Organization", "Break & Continue", "Ternary Operators", "Random Numbers"],
+    future: ["AWS Cloud Practitioner", "Android Native", "Spring Ecosystem"]
+  },
   mission: "Building robust, scalable back-end architectures.",
   contact: "contatoguilhermemateus01@gmail.com"
 };
@@ -52,13 +53,9 @@ const Developer = {
 
 <div align="center">
 
-**Front-End**[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-
-**Back-End**[![My Skills](https://skillicons.dev/icons?i=java,spring,py)](https://skillicons.dev)
-
-**Database**[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
-
-**Tools & DevOps**[![My Skills](https://skillicons.dev/icons?i=aws,git,github,vscode,android)](https://skillicons.dev)
+| **Front-End** | **Back-End** | **Database** | **Tools & DevOps** |
+| --- | --- | --- | --- |
+| [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java,spring,py)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=aws,git,github,vscode,android)](https://skillicons.dev) |
 
 </div>
 
@@ -66,15 +63,17 @@ const Developer = {
 
 ## 🚀 Current Mission
 
-> **Focusing on continuous technical excellence:**
+> **Focusing on continuous technical excellence and study organization:**
 
-- 🎯 **Backend Mastery**: Deep diving into Java, OOP, and Spring Boot.
+- 🎯 **Logic & Fundamentals**: Mastering Loops, Ternary Operators, and Programming Best Practices at Alura.
 
-- ☁️ **Cloud Practitioner**: Preparing for AWS certifications.
+- ☕ **Backend Mastery**: Deep diving into Java, OOP, and Spring Boot ecosystem.
 
-- 📱 **Mobile Development**: Programação para Dispositivos Móveis em Android.
+- ☁️ **Cloud Practitioner**: Preparing for AWS certifications to support scalable systems.
 
-- 🏛️ **Architecture**: Preparing for Software Architecture specialization.
+- 📱 **Mobile Development**: Developing native applications for Android.
+
+- 🏛️ **Architecture**: Structuring the path to become a Software Architect.
 
 **Status:** Never Stop Learning 🎓
 
@@ -95,6 +94,9 @@ Visual Studio Code
 $ favorite_language
 Java / Spring Boot
 
+$ current_focus
+"Loops, Iterations & Best Practices"
+
 $ motivation
 while(alive) {
   learn();
@@ -102,3 +104,5 @@ while(alive) {
   improve();
 }
 ```
+
+---
