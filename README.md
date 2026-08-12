@@ -44,7 +44,7 @@ const Developer = {
   mission: "Building robust, scalable back-end architectures.",
   social: {
     linkedin: "https://www.linkedin.com/in/guilhermematteus/",
-    email: "gm940127@gmail.com",
+    email: "contatoguilhermemateus01@gmail.com",
     github: "github.com/Guilhermematteus"
   }
 };
