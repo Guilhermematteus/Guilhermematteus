@@ -2,7 +2,7 @@
 
 ## 💻 S Y S T E M · O N L I N E
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=INITIALIZING+DEVELOPER+PROFILE;WELCOME+TO+MY+GITHUB;BUILDING+THE+FUTURE" /> <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,40:8B5CF6,100:00E5FF&text=SYSTEM+ONLINE&fontColor=ffffff&fontSize=70" /> </div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=INITIALIZING+DEVELOPER+PROFILE;WELCOME+TO+MY+GITHUB;BUILDING+THE+FUTURE" /> <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,40:8B5CF6,100:00E5FF&text=SYSTEM+ONLINE&fontColor=ffffff&fontSize=70" /> </div>
 
 ---
 
