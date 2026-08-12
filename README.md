@@ -42,7 +42,11 @@ const Developer = {
     "Android Development"
   ],
   mission: "Building robust, scalable back-end architectures.",
-  contact: "contatoguilhermemateus01@gmail.com"
+  social: {
+    linkedin: "https://www.linkedin.com/in/guilhermematteus/",
+    email: "gm940127@gmail.com",
+    github: "github.com/Guilhermematteus"
+  }
 };
 ```
 
@@ -102,3 +106,13 @@ while(alive) {
   improve();
 }
 ```
+
+---
+
+<div align="center">
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermematteus/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gm940127@gmail.com)
+
+</div>
